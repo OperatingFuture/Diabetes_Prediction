@@ -20,4 +20,4 @@ The best result was found with GradientBoosting with an accuracy of 83%.
 
 To run this project you will need some software, like Anaconda.
 
-From Anaconda just set as working directory the folder of the project, open the **GoogleStockPrediction.py** and run this file or press F5.
+From Anaconda just set as working directory the folder of the project, open the .py file you want from Models folder and run this file or press F5.
