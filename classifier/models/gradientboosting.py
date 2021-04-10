@@ -9,7 +9,7 @@ from sklearn.metrics import accuracy_score, roc_auc_score, roc_curve
 
 
 # Importing the dataset
-dataset = pd.read_csv('../Dataset/diabetes.csv')
+dataset = pd.read_csv('../data/diabetes.csv')
 X = dataset.iloc[:, :-1].values
 y = dataset.iloc[:, 8].values
 
