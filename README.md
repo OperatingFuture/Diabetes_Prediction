@@ -1,5 +1,4 @@
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+
 
 
 <!-- TABLE OF CONTENTS -->
